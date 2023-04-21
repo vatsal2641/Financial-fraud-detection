@@ -8,5 +8,5 @@ The main aim of this project is to find the best algorithm for a particlar kind 
 Basically there are 4 categories of financial fraud:
 1. Statement fraud 
 2. transaction fraud
-3. insurance fraud and 
+3. insurance fraud 
 4. credit fraud
