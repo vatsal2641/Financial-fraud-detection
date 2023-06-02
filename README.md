@@ -3,7 +3,7 @@ Financial fraud detection is the process of identifying and preventing fraudulen
 Identifying financial fraud can save financial losses and personal information leaks.
 
 ##The main aim:
-The main aim of this project is to find the best algorithm for a particlar kind of financial fraud .
+The main aim of this project is to find the best algorithm for a particular kind of financial fraud .
 
 Basically there are 4 categories of financial fraud:
 1. Statement fraud 
